@@ -195,6 +195,7 @@ To troubleshoot these issues, `netshoot` includes a set of powerful tools as rec
     openssh \
     strace \
     tcpdump \
+    tcpflow \
     tcptraceroute \
     tshark \
     util-linux \

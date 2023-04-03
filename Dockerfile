@@ -60,6 +60,7 @@ RUN set -ex \
     openssh \
     strace \
     tcpdump \
+    tcpflow \
     tcptraceroute \
     tshark \
     util-linux \
